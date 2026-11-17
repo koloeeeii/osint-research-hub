@@ -1,0 +1,4 @@
+source_id,incident,date,location,seller_alias,listing_phrase,payment_identifier,reported_outcome,source_type,verification_status,analyst_notes
+SIM-A,A,Nov 2,Northbridge,SeatNowDeals,Released from sponsor hold,PAY-417,Tickets not received,Fictional exercise record,Provided in scenario,Training data only; not independently verifiable
+SIM-B,B,Nov 5,Lakeside,RushSeatMarket,Released from sponsor hold,PAY-417,Tickets not received,Fictional exercise record,Provided in scenario,Training data only; not independently verifiable
+SIM-C,C,Nov 8,Northbridge,DealsSeat24,Limited time availability,PAY-882,Tickets not received,Fictional exercise record,Provided in scenario,Training data only; not independently verifiable

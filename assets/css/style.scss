@@ -1,0 +1,29 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+.page-header {
+  background-color: #12243a;
+  background-image: linear-gradient(125deg, #0d1829, #193b56);
+  padding-top: 3.5rem;
+  padding-bottom: 3.5rem;
+}
+.project-name { letter-spacing: -0.035em; font-weight: 750; }
+.project-tagline { color: #d4e1ed; opacity: 1; }
+.main-content { max-width: 62rem; color: #233447; }
+.main-content h1, .main-content h2, .main-content h3 {
+  color: #193852;
+}
+.main-content h2 { border-bottom: 1px solid #d8e2ea; padding-bottom: .4rem; }
+.main-content a { color: #1a547b; }
+.main-content table th { background-color: #edf3f7; }
+.main-content blockquote {
+  border-left: .3rem solid #376485;
+  color: #53687a;
+  background-color: #f4f7fa;
+  padding: .55rem 1rem;
+}
+@media screen and (max-width: 42em) {
+  .page-header { padding-top: 2.5rem; padding-bottom: 2.5rem; }
+}

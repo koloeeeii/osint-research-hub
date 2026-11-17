@@ -1,23 +1,52 @@
 ---
 layout: default
 title: OSINT Research Hub
+description: Criminal intelligence, investigative research, and open-source analysis
 ---
 
-# OSINT Research Hub
+## Criminal intelligence · Investigative research · Open-source analysis
 
-An evolving collection of open-source intelligence tools, investigative methods, and research projects.
+# Investigating information. Evaluating evidence. Understanding patterns.
+
+This is a developing portfolio of **open-source intelligence (OSINT)** research, investigative methodology, crime-pattern exercises, and carefully sourced public-record case studies.
+
+I am building practical skills in gathering information, assessing source credibility, documenting findings, identifying patterns, and communicating analytical judgments. This site records both the work and the learning process.
+
+---
 
 ## Explore
 
-- [OSINT Tools](tools/)
-- [Learning Resources](learning-resources/)
-- [Research Methodologies](methodologies/)
-- [Investigations](investigations/)
+| Section | What you will find |
+| :--- | :--- |
+| [**Investigations**]({{ '/investigations/' | relative_url }}) | Practice case files, analytical briefs, and future public-record research |
+| [**OSINT Tools**]({{ '/tools/' | relative_url }}) | A growing, annotated research-tool directory |
+| [**Methodologies**]({{ '/methodologies/' | relative_url }}) | Repeatable approaches to collection, verification, and analysis |
+| [**Learning Resources**]({{ '/learning-resources/' | relative_url }}) | Free training, reference guides, and practice exercises |
 
-## About This Project
+## Featured case file
 
-This project documents my ongoing development in open-source intelligence, investigative research, and analytical methods.
+### Case 001: Operation False Ticket
 
-## Current Focus
+**Fictional training exercise · Beginner · Not yet assessed**
 
-Building a foundation in information discovery, source verification, public-record research, and intelligence analysis.
+Three reports describe possible online ticket fraud. The assignment is to determine which incidents might be related, identify the strongest links, consider alternative explanations, and state what further evidence is needed.
+
+[**Open the case file**]({{ '/investigations/001-fraud-pattern-analysis/' | relative_url }})
+
+## Analytical approach
+
+**Define the question → Collect → Verify → Compare hypotheses → Assess confidence → Communicate findings**
+
+A defensible assessment explains not only *what is known* but also *what remains uncertain*. My work will distinguish directly observed evidence from inference and identify what could change the conclusion.
+
+## Areas of interest
+
+- Crime patterns, fraud, and investigative reconstruction
+- Intelligence analysis and threat assessment
+- Public records, government accountability, and institutional behavior
+- Digital verification, archives, and geolocation
+- Evidence-based analytical writing
+
+---
+
+*Independent educational portfolio. Simulated cases are explicitly labeled. Nothing on this site implies affiliation with the FBI or another law-enforcement agency.*

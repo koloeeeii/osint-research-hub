@@ -1,0 +1,7 @@
+title: OSINT Research Hub
+description: Criminal intelligence, investigative research, and open-source analysis
+url: "https://koloeeeii.github.io"
+baseurl: "/osint-research-hub"
+theme: jekyll-theme-cayman
+markdown: kramdown
+show_downloads: false
